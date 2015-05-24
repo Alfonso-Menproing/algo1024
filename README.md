@@ -1,2 +1,3 @@
 # algo1024
-SE DOCUMENTARAN ALGORITMOS IMPORTANTES EN LA VIDA COTIDIANA
+El objetivo es crear la lista de los algoritmos más importantes
+y documentarlos (con ejemplos incluidos)
